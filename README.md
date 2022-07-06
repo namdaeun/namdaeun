@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Daeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=namdaeun&show_icons=true&theme=dracula)
+![Daeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=namdaeun&show_icons=true&theme=radical)
 <br><br><br>
 ### 🍒 studying 🍒
 <div align=center>

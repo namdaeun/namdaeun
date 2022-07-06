@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namdaeun&show_icons=true&theme=radical)
 <br><br><br>
-###💻 Tech Stacks 💻
+### 💻 Tech Stacks 💻
 <br>
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=#A8B9CC"/>
 <img alt="PYTHON" src ="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=C&logoColor=#3776AB"/>

@@ -1,4 +1,4 @@
-### Hello there 🤲🏻
+### Hi there 🤲🏻
 ![Daeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=namdaeun&show_icons=true&theme=radical)
 <br><br><br>
 

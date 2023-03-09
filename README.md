@@ -4,14 +4,16 @@
 ## <p align=center>🍒 STUDYING 🍒</p>
 ### <p align=center>📖 Tech Stacks 📖</p>
 <div align=center>
-<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&style=plastic&logoColor=white"/> <img alt="PYTHON" src ="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=PYTHON&style=plastic&logoColor=white"/> <img alt="LINUX" src ="https://img.shields.io/badge/LINUX-FCC624.svg?&style=for-the-badge&logo=LINUX&style=plastic&logoColor=white"/> <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&style=plastic&logoColor=white"/><br> <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&style=plastic&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&style=plastic&logoColor=white"/> <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&style=plastic&logoColor=white"/> <img alt="ANDROID" src ="https://img.shields.io/badge/ANDROID STUDIO-3DDC84.svg?&style=for-the-badge&logo=ANDROID STUDIO&style=plastic&logoColor=white"/>
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="PYTHON" src ="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=PYTHON&logoColor=white"/> <img alt="LINUX" src ="https://img.shields.io/badge/LINUX-FCC624.svg?&style=for-the-badge&logo=LINUX&logoColor=white"/> <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/><br> <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/> <img alt="ANDROID" src ="https://img.shields.io/badge/ANDROID STUDIO-3DDC84.svg?&logo=ANDROID STUDIO&style=for-the-badge&logoColor=white"/>
 </div>
 <br>
 
-### <p align=center>📌 BLOG</p>
-<div align=center>
-  <a href="https://velog.io/@namdaeun" style="color:black">🤍 Velog</a>
-  <a href="https://dacoding.tistory.com">🤍 Tistory 🤍</a>
+<h3 align="center"><b>💌 Social 💌 </b></h3>
+</br>
+<div align="center">
+<a href="mailto:nde40345@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nde40345@gmail.com"/></a>
+<a href="https://www.instagram.com/ska_ekdms"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/ska_ekdms"/></a>
+<a href="https://velog.io/@namdaeun"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@namdaeun"/></a>
 <br>
 <br/>
  

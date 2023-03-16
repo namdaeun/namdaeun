@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f9d9ca&height=160&section=header&text=Hi!%20I'm%20Daeun!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f9d9ca&height=160&section=header&text=Hi!%20I'm%20Daeun!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=111111)
 <br><br><br>
 
 ## <p align=center>🍒 STUDYING 🍒</p>

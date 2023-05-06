@@ -13,7 +13,6 @@
 <a href="mailto:nde40345@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nde40345@gmail.com"/></a>
 <a href="https://www.instagram.com/ska_ekdms"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/ska_ekdms"/></a>
 <a href="https://velog.io/@namdaeun"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@namdaeun"/></a>
-<a href="https://dacoding.tistory.com"><img src="http://img.shields.io/badge/-Tistory-000000?style=for-the-badge&link=https://dacoding.tistory.com"/></a>
 <br>
 <br/>
  

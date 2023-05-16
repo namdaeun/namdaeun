@@ -1,5 +1,4 @@
 <div align="center">
- 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient,50:c779d0,100:4bc0c8&height=185&section=header&text=Hi!%20I'm%20Daeun%20&fontSize=80&fontAlignY=75&fontColor=f5f5f5&animation=twinkling)
 
 ### <p align=center>📖 Tech Stacks 📖</p>

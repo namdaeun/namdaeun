@@ -1,7 +1,7 @@
 ## hello ☺️👋🏻
 
 #### 📖 Learning... 📖
-<img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="REACT" src ="https://img.shields.io/badge/REACT-61DAFB.svg?&logo=REACT&style=for-the-badge&logoColor=white"/>
+<img alt="TYPESCRIPT" src ="https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?&style=for-the-badge&logo=TYPESCRIPT&logoColor=white"/><img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="REACT" src ="https://img.shields.io/badge/REACT-61DAFB.svg?&logo=REACT&style=for-the-badge&logoColor=white"/>
 
 
 

@@ -8,7 +8,7 @@
 
 <!-- <div align="center">  -->
 
-![Daeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=namdaeun&show_icons=true&theme=dracula)
+![Daeun's GitHub status](https://github-readme-stats.vercel.app/api?username=namdaeun&show_icons=true&theme=dracula)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient,100:4bc0c8&height=100)
 

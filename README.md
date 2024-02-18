@@ -8,9 +8,7 @@
 <img alt="styled-components" src ="https://img.shields.io/badge/STYLED COMPONENTS-DB7093.svg?&logo=STYLEDCOMPONENTS&style=for-the-badge&logoColor=white"/>
 <img alt="emotion" src ="https://img.shields.io/badge/EMOTION-DB7093.svg?&logo=EMOTION&style=for-the-badge&logoColor=white"/>
 
-
-
-![Daeun's GitHub status](https://github-readme-stats.vercel.app/api?username=namdaeun&show_icons=true&theme=dracula)
+![Daeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=namdaeun&show_icons=true&theme=tokyonight)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient,100:4bc0c8&height=100)
 

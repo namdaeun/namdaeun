@@ -1,4 +1,4 @@
-### hi I'm Daeun ☺️👋🏻
+### Hi I'm Daeun ☺️👋🏻
 > - SMWU 21 Software Convergence
 > - IT 연합동아리 SOPT 33기 YB 수료
 

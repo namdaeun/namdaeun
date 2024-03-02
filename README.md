@@ -3,7 +3,7 @@
 > - IT 연합동아리 [DO SOPT] 33기 YB 수료 (2023.09 ~ 2024.01)
 > - IT 연합동아리 [NOW SOPT] 34기 OB (2024.02 ~)
 
-#### 💻 What I have learned over these past few days...
+#### 💻 What I've learned over these past few days...
 <img alt="typescript" src ="https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?&style=for-the-badge&logo=TYPESCRIPT&logoColor=white"/> <img alt="javascript" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/>  <img alt="react" src ="https://img.shields.io/badge/REACT-61DAFB.svg?&logo=REACT&style=for-the-badge&logoColor=white"/> <br />
 <img alt="react-query" src ="https://img.shields.io/badge/REACT QUERY-FF4154.svg?&logo=REACTQUERY&style=for-the-badge&logoColor=white"/> 
 <img alt="styled-components" src ="https://img.shields.io/badge/STYLED COMPONENTS-DB7093.svg?&logo=STYLEDCOMPONENTS&style=for-the-badge&logoColor=white"/>

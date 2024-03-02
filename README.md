@@ -1,6 +1,7 @@
 ### Hi I'm Daeun ☺️👋🏻
 > - SMWU 21 Software Convergence
-> - IT 연합동아리 SOPT 33기 YB 수료
+> - IT 연합동아리 [DO SOPT] 33기 YB 수료 (2023.09 ~ 2024.01)
+> - IT 연합동아리 [NOW SOPT] 34기 OB (2024.02 ~)
 
 #### 📖 what I'm learning these days... 
 <img alt="typescript" src ="https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?&style=for-the-badge&logo=TYPESCRIPT&logoColor=white"/> <img alt="javascript" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/>  <img alt="react" src ="https://img.shields.io/badge/REACT-61DAFB.svg?&logo=REACT&style=for-the-badge&logoColor=white"/> <br />

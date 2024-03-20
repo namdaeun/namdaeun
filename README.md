@@ -1,4 +1,4 @@
-### Hi I'm Daeun ☺️👋🏻
+## Hi I'm Daeun ☺️👋🏻
 > - SMWU 21 Software Convergence
 > - IT 연합동아리 [DO SOPT] 33기 YB 수료 (2023.09 ~ 2024.01)
 > - IT 연합동아리 [NOW SOPT] 34기 OB (2024.03 ~)

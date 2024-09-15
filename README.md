@@ -1,15 +1,20 @@
 ## Hi I'm Daeun ☺️👋🏻
-> - SMWU 21 Software Convergence
-> - IT 연합동아리 [DO SOPT] 33기 YB 수료 (2023.09 ~ 2024.01)
-> - IT 연합동아리 [NOW SOPT] 34기 OB 수료 (2024.03 ~ 2024.07)
+#### 💻  Skills
+<img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=flat&logo=Typescript&logoColor=white"/> <img alt="javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=white"/>  <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&logo=React&style=flat&logoColor=white"/> 
+<img alt="Tanstack-query" src ="https://img.shields.io/badge/Tanstack Query-FF4154.svg?&logo=REACTQUERY&style=flat&logoColor=white"/> 
+<img alt="styled-components" src ="https://img.shields.io/badge/Styled Components-DB7093.svg?&logo=Styled-Components&style=flat&logoColor=white"/>
+<img alt="emotion" src ="https://img.shields.io/badge/Emotion-DB7093.svg?&logo=Emotion&style=flat&logoColor=white"/>
 
-#### 💻 What I've learned over these past few days...
-<img alt="typescript" src ="https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?&style=for-the-badge&logo=TYPESCRIPT&logoColor=white"/> <img alt="javascript" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/>  <img alt="react" src ="https://img.shields.io/badge/REACT-61DAFB.svg?&logo=REACT&style=for-the-badge&logoColor=white"/> <br />
-<img alt="react-query" src ="https://img.shields.io/badge/REACT QUERY-FF4154.svg?&logo=REACTQUERY&style=for-the-badge&logoColor=white"/> 
-<img alt="styled-components" src ="https://img.shields.io/badge/STYLED COMPONENTS-DB7093.svg?&logo=STYLEDCOMPONENTS&style=for-the-badge&logoColor=white"/>
-<img alt="emotion" src ="https://img.shields.io/badge/EMOTION-DB7093.svg?&logo=EMOTION&style=for-the-badge&logoColor=white"/>
 
-![Daeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=namdaeun&show_icons=true&theme=tokyonight)
+#### ✨ Activities
+- IT 연합동아리 [NOW SOPT] 34기 WEB 파트 OB (2024.03 ~ 2024.07)
+- IT 연합동아리 [DO SOPT] 33기 WEB 파트 YB (2023.09 ~ 2024.01)
+- 숙명여자대학교 정보보안학회 SISS (2021.03 ~ 2023.12)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient,100:4bc0c8&height=100)
 
+#### 📚 Education
+- 숙명여자대학교 소프트웨어학부
+
+#### :fire: My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=namdaeun&theme=dark&background=000000)](https://git.io/streak-stats)

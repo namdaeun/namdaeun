@@ -12,4 +12,4 @@
 
 #### My Stats
 
-![Daeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=namdaeun&show_icons=true&theme=midnight-purple)
+![Daeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=namdaeun&show_icons=true&theme=ocean_dark)

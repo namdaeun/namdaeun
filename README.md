@@ -10,7 +10,7 @@
 - SMWU 정보보안학회 SISS (2021.03 ~ 2023.12)
 
 #### Experiences
-- Cemware 인턴십 Web Frontend (2025.03 ~ )
+- CEMWARE 인턴십 Web Frontend (2025.03 ~ )
 
 #### My Stats
 

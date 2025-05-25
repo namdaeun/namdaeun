@@ -15,3 +15,9 @@
 #### My Stats
 
 ![Daeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=namdaeun&show_icons=true&theme=nightowl)
+
+<br />
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{namdaeun}"/>
+</a>

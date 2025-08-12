@@ -14,7 +14,7 @@
 <img alt="Vanilla Extract" src="https://img.shields.io/badge/Vanilla Extract-F786AD?style=flat&logo=vanillaExtract&logoColor=white"/>
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=flat&logo=tailwindcss&logoColor=white"/>
 
-<br/><br/>
+<br/>
 </div>
 
 #### Activities

@@ -18,7 +18,7 @@
 </div>
 
 #### Activities
-- **SOPT Makers 35th - Admin FE Engineer** (2025.02 ~ )
+- **SOPT Makers 36th - Admin FE Engineer** (2025.02 ~ )
 - SOPT 34th — WEB part **OB** (2024.03 ~ 2024.07)
 - SOPT 33rd — WEB part **YB** (2023.09 ~ 2024.01)
 - SMWU 정보보안학회 SISS (2021.03 ~ 2023.12)

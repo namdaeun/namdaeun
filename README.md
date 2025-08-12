@@ -32,5 +32,5 @@
 
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=namdaeun&slug=그래서-전역-상태-언제-써요)](https://github.com/skaekdms/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=namdaeun&slug=그래서-전역-상태-언제-써요)](https://velog-readme-stats.vercel.app/api/redirect?name=namdaeun&tag=Context-API)
 

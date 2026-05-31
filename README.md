@@ -4,7 +4,7 @@
   
 **Hi, I'm **Daeun** 👋🏻**
 
-> 책임감 있는 태도로 지속적인 상호 성장을 추구하는 프론트엔드 개발자 남다은입니다.
+> 명확한 언어로 소통하며, 집요한 책임감으로 결과물을 완수하는 프론트엔드 개발자 남다은입니다.
 
 <br/>
 
@@ -19,8 +19,7 @@
 
 #### Activities
 - **SOPT Makers 36th - Admin FE Engineer** (2025.02 ~ )
-- SOPT 34th — WEB part **OB** (2024.03 ~ 2024.07)
-- SOPT 33rd — WEB part **YB** (2023.09 ~ 2024.01)
+- SOPT 33rd, 34th — WEB part (2023.09 ~ 2024.07)
 - SMWU 정보보안학회 SISS (2021.03 ~ 2023.12)
 
 #### Experiences
